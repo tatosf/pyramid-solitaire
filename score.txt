@@ -1,0 +1,6 @@
+santiago 0
+adnan 20
+M 10
+adnan 10
+jabari 20
+trial 30
